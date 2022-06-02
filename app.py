@@ -191,7 +191,7 @@ wildcard_URI="https://gateway.pinata.cloud/ipfs/QmRvsJr9fJ1uaUFzWnELnDWrzNtMBVqr
 ################################################################################
 # Register New Artwork
 ################################################################################
-st.title("Purchae your Avatar!")
+st.title("Purchase your Avatar!")
 accounts = w3.eth.accounts
 # Use a streamlit component to get the address of the artwork owner from the user
 #address = st.selectbox("Select Artwork Owner", options=accounts)
